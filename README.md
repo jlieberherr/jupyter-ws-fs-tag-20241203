@@ -40,8 +40,8 @@ Es gibt mehrere Möglichkeiten, Jupyter im Netz ohne lokale Installation zu verw
 ## Beispiele für die Verwendung von Jupyter im Unterricht
 * Beispiel 1 (Wahrscheinlichkeitsrechnung):
   * In diesem Repository: [wuerfeln.ipynb](/wuerfeln.ipynb)
-  * Auf Google Colab: TODO
+  * Auf Google Colab: [wuerfeln.ipynb](https://colab.research.google.com/drive/1yqxlE8gqx-xDW4Je4g4AAc_A4zW7iTiZ?usp=sharing)
 * Beispiel 2 (Primzahlen):
   * In diesem Repository: [primzahlen.ipynb](/primzahlen.ipynb)
-  * Auf Google Colab: TODO
+  * Auf Google Colab: [primzahlen.ipynb](https://colab.research.google.com/drive/1pvgd_fBygCUJCXKxBuIEFbPWLh1_g3-L?usp=sharing)
 
