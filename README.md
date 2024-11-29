@@ -23,7 +23,7 @@ Im Folgenden wird mit ```<path-to-dev-folder>``` der Pfad zum Ordner, in welchem
 * Wechsele mit ```cd <path-to-dev-folder>\jupyter-ws-fs-tag-20241203``` in den Entwicklungsordner
 * Erzeuge mit ```"<path-to-python-folder>\python.exe"" -m venv venv_jupyter``` eine virtuelle Umgebung
 * Aktiviere die virtuelle Umgebung mit ```venv_jupyter\Scripts\activate```
-* Installiere Jupyter mit ```pip install requirements.txt``` die Bibliotheken, insbesondere Jupyter, innerhalb der virtuellen Umgebung
+* Installiere Jupyter mit ```pip install -r requirements.txt``` die Bibliotheken, insbesondere Jupyter, innerhalb der virtuellen Umgebung
 
 ## Starten von Jupyter
 * Öffne ein Kommandozeilenwerkzeug, z.B. mit ```cmd```
