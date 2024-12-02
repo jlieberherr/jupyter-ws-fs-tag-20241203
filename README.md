@@ -1,6 +1,19 @@
 # Workshop über Jupyter-Notebooks am Fachschaftstag Mathematik vom 03.12.2024 (Kanton Bern)
 
-## Installation (auf Windows)
+## Beispiele für die Verwendung von Jupyter im Unterricht
+* Beispiel 1 (Wahrscheinlichkeitsrechnung):
+  * In diesem Repository: [wuerfeln.ipynb](/wuerfeln.ipynb)
+  * Auf Google Colab: [wuerfeln.ipynb](https://colab.research.google.com/drive/1yqxlE8gqx-xDW4Je4g4AAc_A4zW7iTiZ?usp=sharing)
+* Beispiel 2 (Primzahlen):
+  * In diesem Repository: [primzahlen.ipynb](/primzahlen.ipynb)
+  * Auf Google Colab: [primzahlen.ipynb](https://colab.research.google.com/drive/1pvgd_fBygCUJCXKxBuIEFbPWLh1_g3-L?usp=sharing)
+
+## Verwenden von Jupyter ohne lokale Installation
+Es gibt mehrere Möglichkeiten, Jupyter im Netz ohne lokale Installation zu verwenden:
+* [Google Colab](https://colab.google/) (benötigt eine Anmeldung bei Google).
+* [Binder](https://mybinder.org/) (benötigt ein Github-Repository)
+
+## Lokale Installation (auf Windows)
 
 ### Installation von Python und Git
 
@@ -32,16 +45,7 @@ Im Folgenden wird mit ```<path-to-dev-folder>``` der Pfad zum Ordner, in welchem
 * Starte Jupyter mit ```jupyter lab```
 * Hinweis: Zellen in Jupyter Notebooks werden mit ```Shift + Enter``` ausgeführt
 
-## Verwenden von Jupyter ohne lokale Installation
-Es gibt mehrere Möglichkeiten, Jupyter im Netz ohne lokale Installation zu verwenden:
-* [Google Colab](https://colab.google/) (benötigt eine Anmeldung bei Google).
-* [Binder](https://mybinder.org/) (benötigt ein Github-Repository)
 
-## Beispiele für die Verwendung von Jupyter im Unterricht
-* Beispiel 1 (Wahrscheinlichkeitsrechnung):
-  * In diesem Repository: [wuerfeln.ipynb](/wuerfeln.ipynb)
-  * Auf Google Colab: [wuerfeln.ipynb](https://colab.research.google.com/drive/1yqxlE8gqx-xDW4Je4g4AAc_A4zW7iTiZ?usp=sharing)
-* Beispiel 2 (Primzahlen):
-  * In diesem Repository: [primzahlen.ipynb](/primzahlen.ipynb)
-  * Auf Google Colab: [primzahlen.ipynb](https://colab.research.google.com/drive/1pvgd_fBygCUJCXKxBuIEFbPWLh1_g3-L?usp=sharing)
+
+
 
